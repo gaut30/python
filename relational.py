@@ -1,0 +1,17 @@
+a = 10
+b = 2
+c = 5*2
+print(a > b)
+print(b > a)
+print(a < b)
+print(b < a)
+print(a == b)
+print(a == c)
+print(a != b)
+print(a != c)
+print(a >= b)
+print(a >= c)
+print(b >= a)
+print(a <= b)
+print(a <= c)
+print(b <= a)
